@@ -13,7 +13,7 @@ Requires several libraries to get the demo running.
 
 ## Usage
 
-1. Download the model files from [here] (https://drive.google.com/file/d/1Y3KXEX3BsuZYtgQUXCYjC_4WD-irdYsP/view?usp=sharing)
+1. Download the model files from [here](https://drive.google.com/file/d/1Y3KXEX3BsuZYtgQUXCYjC_4WD-irdYsP/view?usp=sharing)
 2. Untar the contents and place the content in the models directory
 3. Place the images that you want to be identified in the data directory. Then run 
 
