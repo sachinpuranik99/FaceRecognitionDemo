@@ -4,7 +4,7 @@ import cv2
 import os
 import glob
 import pickle
-import MTCNN as mtcnn
+import utils.MTCNN as mtcnn
 import scipy
 
 feature_file = np.load("data/feature_file.npz")
