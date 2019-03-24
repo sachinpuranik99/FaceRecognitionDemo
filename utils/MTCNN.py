@@ -537,7 +537,7 @@ def process_image(ip_img):
     src = np.array( zip(x_, y_) ).astype(np.float32).reshape(1,5,2)
     
     out = None
-    emotion = "Not Found"
+    emotion = ""
     features = []
     name_dict_arr = [] 
     for i in range(0, len(x1)):
