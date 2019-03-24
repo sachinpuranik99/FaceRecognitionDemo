@@ -9,6 +9,8 @@ Requires several libraries to get the demo running.
 1. Caffe + PyCaffe [Installation](http://caffe.berkeleyvision.org/installation.html)
 2. Tensorflow for Face expression [Installation](https://www.tensorflow.org/install/pip)
 3. OpenCV
+4. Currently the code supports NVIDIA GPUs. For CPU runs we may need to modify the code.
+5. Requires Python 2.7
 
 
 ## Usage
