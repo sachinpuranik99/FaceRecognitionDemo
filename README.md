@@ -31,6 +31,8 @@ A window will open and will start detecting the faces
 5. Experimental feature.
 For detecting the facial expressions, modify utils/MTCNN.py and change EXPRESSION_DETECTION_ENABLED = True and restart the demo.py
 
+TODO: Expression recognition is buggy and the trained model is inaccurate. Need a better model for improved accuracy. 
+
 
  
 
